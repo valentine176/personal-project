@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(30deg, rgba(34, 74, 125, 0.59) 0%, rgba(255, 170, 7, 0.4)50%), url(../../images/background.jpg);
+	color: white;
+	padding: 75px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-family: 'Bentham', serif;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
